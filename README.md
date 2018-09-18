@@ -6,7 +6,7 @@ A Game that Attempts to Demo MVC for Android
 License
 =======
 
-Copyright 2013 Abram Hindle
+Copyright 2018 Abram Hindle, Maxime Houle
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
